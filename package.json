@@ -1,0 +1,9 @@
+{
+  "name": "herald",
+  "version": "0.0.0",
+  "description": "A bot for your kingdom",
+  "main": "bot.js",
+  "repository": "git@github.com:Dacrol/Herald.git",
+  "author": "Dacrol <jonas.ahrens@gmail.com>",
+  "license": "MIT"
+}
